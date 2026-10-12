@@ -1,0 +1,670 @@
+{
+  "date": "2026-10-12",
+  "media": [
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S01-image-v002.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2157439
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S02-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2123924
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S03-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2110886
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S04-image-v002.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2942641
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S05-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 3398441
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S06-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 3319280
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S07-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2456172
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S08-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2239615
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S09-image-v002.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2338754
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S10-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2426830
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S11-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2238609
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S12-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2370617
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S13-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2532253
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S14-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 1748995
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S15-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2310971
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S16-image-v001.png",
+      "kind": "image",
+      "pixels": [
+        1672,
+        941
+      ],
+      "bytes": 2265653
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S01-云起时-01.mp4",
+      "kind": "video",
+      "bytes": 5458552,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S02-云起时-02.mp4",
+      "kind": "video",
+      "bytes": 4832625,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S03-云起时-03.mp4",
+      "kind": "video",
+      "bytes": 3914682,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S04-云起时-04.mp4",
+      "kind": "video",
+      "bytes": 4867715,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S05-云起时-05.mp4",
+      "kind": "video",
+      "bytes": 19540404,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S06-云起时-06.mp4",
+      "kind": "video",
+      "bytes": 17058837,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S07-云起时-07.mp4",
+      "kind": "video",
+      "bytes": 7167030,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S08-云起时-08.mp4",
+      "kind": "video",
+      "bytes": 14412069,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S09-云起时-09.mp4",
+      "kind": "video",
+      "bytes": 4356580,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "6.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S10-云起时-10.mp4",
+      "kind": "video",
+      "bytes": 5568021,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S11-云起时-11.mp4",
+      "kind": "video",
+      "bytes": 3215113,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S12-云起时-12.mp4",
+      "kind": "video",
+      "bytes": 8313873,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S13-云起时-13.mp4",
+      "kind": "video",
+      "bytes": 10812064,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S14-云起时-14.mp4",
+      "kind": "video",
+      "bytes": 3504085,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S15-云起时-15.mp4",
+      "kind": "video",
+      "bytes": 3371197,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S16-云起时-16.mp4",
+      "kind": "video",
+      "bytes": 5992713,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "width": 1916,
+            "height": 1080
+          },
+          {
+            "codec_name": "aac",
+            "sample_rate": "44100",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v001/云起时-音色候选-01.mp3",
+      "kind": "audio",
+      "bytes": 643956,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "53.532000"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v001/云起时-音色候选-02.mp3",
+      "kind": "audio",
+      "bytes": 503556,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "41.832000"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v001/云起时-音色候选-03.mp3",
+      "kind": "audio",
+      "bytes": 640500,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "53.244000"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v002/云起时-音色候选-04.mp3",
+      "kind": "audio",
+      "bytes": 583908,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "48.528000"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v002/云起时-音色候选-05.mp3",
+      "kind": "audio",
+      "bytes": 553236,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "45.972000"
+        }
+      },
+      "fullDecode": "passed"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v002/云起时-音色候选-06.mp3",
+      "kind": "audio",
+      "bytes": 578292,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "32000",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "48.060000"
+        }
+      },
+      "fullDecode": "passed"
+    }
+  ],
+  "scope": "文件规格与音视频整段解码；不代表审美、语音表演或视频运动已获用户确认"
+}

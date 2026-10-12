@@ -32,3 +32,10 @@ __pycache__/
 
 # Disposable font cache produced while rendering delivery documents
 /doc/**/font-cache/
+
+# Curated production assets: actual files are stored through Git LFS.
+!/doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/*.png
+!/doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/**/*.mp3
+!/doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/*.mp4
+!/doc/看板/意境选句界面.png
+!/doc/项目/01-古诗词意境/分期/001-山水清欢/横屏-v5/交付-v001/核验/视频16镜-*.jpg
