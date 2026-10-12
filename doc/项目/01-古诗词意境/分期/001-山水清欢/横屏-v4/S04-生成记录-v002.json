@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-08",
+  "shot": "S04",
+  "version": "v002",
+  "status": "候选待用户审阅·见逐镜问题",
+  "userAdoption": "待用户决定",
+  "review": "待审：两人缩小后成人约画高6%，松下问答、童子指向与云深缺席可读，人物落脚正常。前景碎石与右侧云峰仍偏壮阔、出现非必要远处小瀑布，风格克制程度待用户复核；不作为严格史实复原。",
+  "actualInput": {
+    "prompt": "精确局部修改参考图：把松下现有的成人与童子作为同一组整体缩小到现在身高的45%，保持成人与孩子的身高关系和指山动作。把缩小的两人放在同一松下山径稍远处，双脚贴住平路，成人身高最终约画高5%，人物仍可辨但山林远大于人。空出的原人物区域恢复同一自然土径。不要新增人，不要改变机位、树、山、云和画幅。保持童子指向云深山路、成年人顺势望去的关系；隐者不能出现。光线和阴影与原图一致，衣物简净，不强化纹理。最高可用原生画质，目标3840×2160，完整16:9单张，无字无水印；不锐化不全图模糊。",
+    "referenced_image_paths": [
+      "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-198d41a8-0d66-405b-a91a-9be33ff7156d.png"
+    ],
+    "transparent_background": false
+  },
+  "referenceRoles": [
+    {
+      "path": "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-198d41a8-0d66-405b-a91a-9be33ff7156d.png",
+      "role": "本镜v001的实际局部编辑目标；完成后淘汰并清理"
+    }
+  ],
+  "tool": "image_gen.imagegen",
+  "model": "未知，内置工具未暴露",
+  "quality": "未知，工具未暴露；输入请求最高可用",
+  "seed": "未知",
+  "cost": "未知，工具未返回",
+  "calls": 1,
+  "output": {
+    "original": "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-0cc86a87-80be-4a1e-adaf-44ebbda1724f.png",
+    "project": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v4/S04-image-v002.png",
+    "width": 1672,
+    "height": 941,
+    "bytes": 2395747,
+    "native4k": false,
+    "exact16to9": false,
+    "deleted": false
+  }
+}

@@ -1,0 +1,1218 @@
+{
+  "date": "2026-10-09",
+  "package": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/交付/云起时-剪辑交付-v001",
+  "source_audio": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v1/云起时-电台男声-完整朗诵-v001.mp3",
+  "source_videos": "/Users/huabi/video/古诗词-云起时",
+  "total_source_video_seconds": 89.666672,
+  "planned_seconds": 100,
+  "new_model_calls": 0,
+  "new_model_cost": 0,
+  "video_adoption": "用户提供用于本次剪辑交付，未自行更新看板采用",
+  "audio_adoption": "沿用前轮首版音色制作交付素材，未收到独立音色采用反馈",
+  "audio_boundaries": [
+    [
+      1.668345,
+      3.397234
+    ],
+    [
+      4.907415,
+      7.299841
+    ],
+    [
+      8.555193,
+      9.822313
+    ],
+    [
+      10.819841,
+      13.140884
+    ],
+    [
+      14.230952,
+      15.757823
+    ],
+    [
+      16.826712,
+      19.348526
+    ],
+    [
+      20.49093,
+      22.092404
+    ],
+    [
+      23.250317,
+      25.771043
+    ],
+    [
+      27.04127,
+      28.649161
+    ],
+    [
+      29.807302,
+      32.359342
+    ],
+    [
+      33.603673,
+      35.234717
+    ],
+    [
+      36.442971,
+      38.923333
+    ],
+    [
+      40.187619,
+      41.81517
+    ],
+    [
+      43.052789,
+      45.589184
+    ],
+    [
+      46.756054,
+      48.353197
+    ],
+    [
+      49.557982,
+      52.082698
+    ],
+    [
+      54.047937,
+      55.730771
+    ],
+    [
+      57.490748,
+      60.011429
+    ],
+    [
+      61.070476,
+      62.594263
+    ]
+  ],
+  "shots": [
+    {
+      "shot": "S01",
+      "name": "雨后愿留",
+      "quote": "空山新雨后，天气晚来秋。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-01.mp4",
+      "file": "01-视频/S01-云起时-01.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 0,
+      "planned_end": 6,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "5458552"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S02",
+      "name": "雨将止的一瞬",
+      "quote": "空山新雨后，天气晚来秋。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-02.mp4",
+      "file": "01-视频/S02-云起时-02.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 6,
+      "planned_end": 11,
+      "planned_duration": 5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "4832625"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S03",
+      "name": "返照，只够照见一点",
+      "quote": "返景入深林，复照青苔上。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-03.mp4",
+      "file": "01-视频/S03-云起时-03.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 11,
+      "planned_end": 17,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "3914682"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S04",
+      "name": "松下问，云里无答",
+      "quote": "只在此山中，云深不知处。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-04.mp4",
+      "file": "01-视频/S04-云起时-04.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 17,
+      "planned_end": 24,
+      "planned_duration": 7,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "4867715"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S05",
+      "name": "水到这里，人先停下",
+      "quote": "行到水穷处，坐看云起时。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-05.mp4",
+      "file": "01-视频/S05-云起时-05.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 24,
+      "planned_end": 31,
+      "planned_duration": 7,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "19540404"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S06",
+      "name": "坐下，云自升",
+      "quote": "行到水穷处，坐看云起时。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-06.mp4",
+      "file": "01-视频/S06-云起时-06.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 31,
+      "planned_end": 39,
+      "planned_duration": 8,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "17058837"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S07",
+      "name": "山光先到鸟身上",
+      "quote": "山光悦鸟性，潭影空人心。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-07.mp4",
+      "file": "01-视频/S07-云起时-07.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 39,
+      "planned_end": 44,
+      "planned_duration": 5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "7167030"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S08",
+      "name": "潭影慢下来",
+      "quote": "山光悦鸟性，潭影空人心。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-08.mp4",
+      "file": "01-视频/S08-云起时-08.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 44,
+      "planned_end": 49,
+      "planned_duration": 5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "14412069"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S09",
+      "name": "手在采菊",
+      "quote": "采菊东篱下，悠然见南山。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-09.mp4",
+      "file": "01-视频/S09-云起时-09.mp4",
+      "source_duration": 6.041667,
+      "planned_start": 49,
+      "planned_end": 54,
+      "planned_duration": 5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "6.041667",
+          "size": "4356580"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S10",
+      "name": "采菊之后，忽然见山",
+      "quote": "采菊东篱下，悠然见南山。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-10.mp4",
+      "file": "01-视频/S10-云起时-10.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 54,
+      "planned_end": 60,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "5568021"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S11",
+      "name": "归鸟，各有归处",
+      "quote": "山气日夕佳，飞鸟相与还。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-11.mp4",
+      "file": "01-视频/S11-云起时-11.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 60,
+      "planned_end": 67,
+      "planned_duration": 7,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "3215113"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S12",
+      "name": "松间一月，石上一泉",
+      "quote": "明月松间照，清泉石上流。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-12.mp4",
+      "file": "01-视频/S12-云起时-12.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 67,
+      "planned_end": 74,
+      "planned_duration": 7,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "8313873"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S13",
+      "name": "石上薄水",
+      "quote": "明月松间照，清泉石上流。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-13.mp4",
+      "file": "01-视频/S13-云起时-13.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 74,
+      "planned_end": 80,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "10812064"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S14",
+      "name": "湖山，是温柔的小物",
+      "quote": "湖光秋月两相和，潭面无风镜未磨。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-14.mp4",
+      "file": "01-视频/S14-云起时-14.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 80,
+      "planned_end": 88,
+      "planned_duration": 8,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "3504085"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S15",
+      "name": "欲辨，话停住",
+      "quote": "此中有真意，欲辨已忘言。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-15.mp4",
+      "file": "01-视频/S15-云起时-15.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 88,
+      "planned_end": 94,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "3371197"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    },
+    {
+      "shot": "S16",
+      "name": "人退，余意留下",
+      "quote": "此中有真意，欲辨已忘言。",
+      "source": "/Users/huabi/video/古诗词-云起时/云起时-16.mp4",
+      "file": "01-视频/S16-云起时-16.mp4",
+      "source_duration": 5.041667,
+      "planned_start": 94,
+      "planned_end": 100,
+      "planned_duration": 6,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "hevc",
+            "codec_type": "video",
+            "width": 1916,
+            "height": 1080,
+            "r_frame_rate": "24/1"
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio",
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "5.041667",
+          "size": "5992713"
+        }
+      },
+      "visual_match": "首中末采样与V5主体一致；非完整运动审片"
+    }
+  ],
+  "audios": [
+    {
+      "audio_id": "A01",
+      "group": "01",
+      "line": "空山新雨后",
+      "shots": "S01",
+      "file": "02-逐句配音/A01-空山新雨后.mp3",
+      "source_start_seconds": 0.0,
+      "source_end_seconds": 1.918345,
+      "actual_duration": 1.933061,
+      "voice_start_100s_reference": 1.5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.933061",
+          "size": "63931"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A02",
+      "group": "01",
+      "line": "天气晚来秋",
+      "shots": "S01/S02",
+      "file": "02-逐句配音/A02-天气晚来秋.mp3",
+      "source_start_seconds": 3.277234,
+      "source_end_seconds": 5.157415,
+      "actual_duration": 1.906939,
+      "voice_start_100s_reference": 4.5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.906939",
+          "size": "63095"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A03",
+      "group": "02",
+      "line": "返景入深林",
+      "shots": "S03",
+      "file": "02-逐句配音/A03-返景入深林.mp3",
+      "source_start_seconds": 7.179841,
+      "source_end_seconds": 8.805193,
+      "actual_duration": 1.645714,
+      "voice_start_100s_reference": 11.8,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.645714",
+          "size": "54736"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A04",
+      "group": "02",
+      "line": "复照青苔上",
+      "shots": "S03",
+      "file": "02-逐句配音/A04-复照青苔上.mp3",
+      "source_start_seconds": 9.702313,
+      "source_end_seconds": 11.069841,
+      "actual_duration": 1.410612,
+      "voice_start_100s_reference": 14.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.410612",
+          "size": "47212"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A05",
+      "group": "03",
+      "line": "只在此山中",
+      "shots": "S04",
+      "file": "02-逐句配音/A05-只在此山中.mp3",
+      "source_start_seconds": 13.020884,
+      "source_end_seconds": 14.480952,
+      "actual_duration": 1.48898,
+      "voice_start_100s_reference": 18.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.488980",
+          "size": "49720"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A06",
+      "group": "03",
+      "line": "云深不知处",
+      "shots": "S04",
+      "file": "02-逐句配音/A06-云深不知处.mp3",
+      "source_start_seconds": 15.637823,
+      "source_end_seconds": 17.076712,
+      "actual_duration": 1.462857,
+      "voice_start_100s_reference": 20.5,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.462857",
+          "size": "48884"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A07",
+      "group": "04",
+      "line": "行到水穷处",
+      "shots": "S05",
+      "file": "02-逐句配音/A07-行到水穷处.mp3",
+      "source_start_seconds": 19.228526,
+      "source_end_seconds": 20.74093,
+      "actual_duration": 1.541224,
+      "voice_start_100s_reference": 25.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.541224",
+          "size": "51392"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A08",
+      "group": "04",
+      "line": "坐看云起时",
+      "shots": "S06",
+      "file": "02-逐句配音/A08-坐看云起时.mp3",
+      "source_start_seconds": 21.972404,
+      "source_end_seconds": 23.500317,
+      "actual_duration": 1.567347,
+      "voice_start_100s_reference": 32.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.567347",
+          "size": "52228"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A09",
+      "group": "05",
+      "line": "山光悦鸟性",
+      "shots": "S07",
+      "file": "02-逐句配音/A09-山光悦鸟性.mp3",
+      "source_start_seconds": 25.651043,
+      "source_end_seconds": 27.29127,
+      "actual_duration": 1.671837,
+      "voice_start_100s_reference": 40.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.671837",
+          "size": "55571"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A10",
+      "group": "05",
+      "line": "潭影空人心",
+      "shots": "S08",
+      "file": "02-逐句配音/A10-潭影空人心.mp3",
+      "source_start_seconds": 28.529161,
+      "source_end_seconds": 30.057302,
+      "actual_duration": 1.567347,
+      "voice_start_100s_reference": 45.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.567347",
+          "size": "52228"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A11",
+      "group": "06",
+      "line": "采菊东篱下",
+      "shots": "S09",
+      "file": "02-逐句配音/A11-采菊东篱下.mp3",
+      "source_start_seconds": 32.239342,
+      "source_end_seconds": 33.853673,
+      "actual_duration": 1.645714,
+      "voice_start_100s_reference": 50.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.645714",
+          "size": "54735"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A12",
+      "group": "06",
+      "line": "悠然见南山",
+      "shots": "S10",
+      "file": "02-逐句配音/A12-悠然见南山.mp3",
+      "source_start_seconds": 35.114717,
+      "source_end_seconds": 36.692971,
+      "actual_duration": 1.619592,
+      "voice_start_100s_reference": 55.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.619592",
+          "size": "53900"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A13",
+      "group": "07",
+      "line": "山气日夕佳",
+      "shots": "S11",
+      "file": "02-逐句配音/A13-山气日夕佳.mp3",
+      "source_start_seconds": 38.803333,
+      "source_end_seconds": 40.437619,
+      "actual_duration": 1.671837,
+      "voice_start_100s_reference": 61.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.671837",
+          "size": "55571"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A14",
+      "group": "07",
+      "line": "飞鸟相与还",
+      "shots": "S11",
+      "file": "02-逐句配音/A14-飞鸟相与还.mp3",
+      "source_start_seconds": 41.69517,
+      "source_end_seconds": 43.302789,
+      "actual_duration": 1.645714,
+      "voice_start_100s_reference": 64.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.645714",
+          "size": "54735"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A15",
+      "group": "08",
+      "line": "明月松间照",
+      "shots": "S12",
+      "file": "02-逐句配音/A15-明月松间照.mp3",
+      "source_start_seconds": 45.469184,
+      "source_end_seconds": 47.006054,
+      "actual_duration": 1.541224,
+      "voice_start_100s_reference": 68.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.541224",
+          "size": "51392"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A16",
+      "group": "08",
+      "line": "清泉石上流",
+      "shots": "S13",
+      "file": "02-逐句配音/A16-清泉石上流.mp3",
+      "source_start_seconds": 48.233197,
+      "source_end_seconds": 49.807982,
+      "actual_duration": 1.619592,
+      "voice_start_100s_reference": 75.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.619592",
+          "size": "53900"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A17",
+      "group": "09",
+      "line": "湖光秋月两相和",
+      "shots": "S14",
+      "file": "02-逐句配音/A17-湖光秋月两相和.mp3",
+      "source_start_seconds": 51.962698,
+      "source_end_seconds": 54.297937,
+      "actual_duration": 2.377143,
+      "voice_start_100s_reference": 81.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "2.377143",
+          "size": "78148"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A18",
+      "group": "09",
+      "line": "潭面无风镜未磨",
+      "shots": "S14",
+      "file": "02-逐句配音/A18-潭面无风镜未磨.mp3",
+      "source_start_seconds": 55.610771,
+      "source_end_seconds": 57.740748,
+      "actual_duration": 2.142041,
+      "voice_start_100s_reference": 84.7,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "2.142041",
+          "size": "70624"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A19",
+      "group": "10",
+      "line": "此中有真意",
+      "shots": "S15",
+      "file": "02-逐句配音/A19-此中有真意.mp3",
+      "source_start_seconds": 59.891429,
+      "source_end_seconds": 61.320476,
+      "actual_duration": 1.436735,
+      "voice_start_100s_reference": 89.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.436735",
+          "size": "48048"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    },
+    {
+      "audio_id": "A20",
+      "group": "10",
+      "line": "欲辨已忘言",
+      "shots": "S15/S16",
+      "file": "02-逐句配音/A20-欲辨已忘言.mp3",
+      "source_start_seconds": 62.474263,
+      "source_end_seconds": 64.339592,
+      "actual_duration": 1.854694,
+      "voice_start_100s_reference": 93.0,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "44100",
+            "channels": 1,
+            "bit_rate": "256000"
+          }
+        ],
+        "format": {
+          "duration": "1.854694",
+          "size": "61423"
+        }
+      },
+      "method": "按19处自然停顿裁切；MP3帧直接复制，未重新合成或重编码",
+      "speech_review": "音色和实际读音待试听；按原提交正文顺序与停顿段数建立对应，不冒称ASR/逐字听验"
+    }
+  ]
+}

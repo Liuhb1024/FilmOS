@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-08T14:45:52.216495+00:00",
+  "command": "python3 -",
+  "scope": "本会话通过标准库内联脚本核对定稿、历史记录、看板、PNG原副本、清理清单、当前文档链接与常见凭据模式；非审美评估或视频验证。",
+  "checks": {
+    "adoptedShots": 16,
+    "continuousSeconds": 100,
+    "originalByteIdenticalImages": 16,
+    "imageBytes": 38981080,
+    "pixels": [
+      1672,
+      941
+    ],
+    "boardVersionsAppendedAndSelected": 16,
+    "oldBoardVersionsUnchanged": true,
+    "oldManifestUnchangedAsPendingEvidence": true,
+    "removedRedundantFiles": 37,
+    "removedMedia": 0,
+    "jsonFilesParsed": 26,
+    "localMarkdownLinksChecked": 156,
+    "commonCredentialPatternHits": 0,
+    "mediaIgnoredByGit": 16
+  },
+  "newModelCalls": 0,
+  "newExternalActions": 0,
+  "limitations": [
+    "原生4K未达",
+    "模型、质量档、seed及历史消耗未知",
+    "既有审阅问题未因用户采用而消除",
+    "视频脚本及视频制作等待下一步指令"
+  ]
+}

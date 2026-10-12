@@ -1,0 +1,36 @@
+{
+  "verifiedAtUtc": "2026-10-08T13:44:36.490017+00:00",
+  "command": "python3 \"/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/分期/001-山水清欢/横屏-v4/核验交付.py\"",
+  "checks": {
+    "jsonFilesParsed": 44,
+    "independentMidjourneyPrompts": 16,
+    "retainedInitialGptPrompts": 12,
+    "deletedFailedGptPrompts": 4,
+    "deletedFailedImages": 4,
+    "retainedPngFilesAndExactCopyComparison": 16,
+    "actualPixels": [
+      [
+        1672,
+        941
+      ]
+    ],
+    "historicalReferencesToSubsequentlyDeletedFailures": 3,
+    "retainedCandidateActualInputsAndPreparedRecords": 16,
+    "failureBriefRecordsWithoutPrompts": 4,
+    "localMarkdownLinks": 119,
+    "credentialPatternHits": 0,
+    "mediaFilesIgnoredByGit": 16,
+    "gitStatusScopeEntries": 83
+  },
+  "retainedImageBytes": 38768636,
+  "sha256": "按项目规则未额外计算；归档复制使用完整字节比较核验",
+  "result": "文件、记录与链接核验通过；不等于原生4K、审美、史实复原或视频连续性通过",
+  "remaining": [
+    "原生3840×2160未达到",
+    "实际模型与质量档未知",
+    "纹理密度、光色与人物尺度仍需用户审阅",
+    "Midjourney提示词待用户试图",
+    "用户未决定采用；视频未生成或提交"
+  ],
+  "scope": "核验只读本轮文件及Git忽略状态；输出本记录。未改代码，无代码测试需求。本轮仅公开研究与已授权内置生图；未安装依赖、读取密钥、上传至MJ、写看板采用、覆盖旧媒体、提交或推送Git。"
+}

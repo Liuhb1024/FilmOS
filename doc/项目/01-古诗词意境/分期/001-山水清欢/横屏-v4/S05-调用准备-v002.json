@@ -1,0 +1,19 @@
+{
+  "status": "已有返回，已归档",
+  "shot": "S05",
+  "actualInput": {
+    "prompt": "精确局部修改参考图：将现有唯一灰褐衣行者完整缩小到当前高度的20%，保持正常头身、双腿与衣服比例。把小人物移到同一溪岸更远的林缘开口左侧，双脚落在岸内平坦土径上；人物最终仅画高约9%，不要仍放在镜头前的大石旁。人是独行至浅泉尽处后自然停步的侧背影，肩膀放松，不绝望、不挥手、不背包。原人物空出的区域自然恢复为山岸草木与背景。保持斜干松在左、宽平低灰石在右、低缓远山与镜头机位；不要改变成高山悬崖。最高可用原生画质，目标3840×2160，完整16:9单张，无字无水印；不锐化、不强调湿石高光、不全图模糊。",
+    "referenced_image_paths": [
+      "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-55518068-68dd-4fa2-b1ea-0a0cb9fd0c16.png"
+    ],
+    "transparent_background": false
+  },
+  "referenceRoles": [
+    {
+      "path": "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-55518068-68dd-4fa2-b1ea-0a0cb9fd0c16.png",
+      "role": "本镜v001的实际局部编辑目标；完成后淘汰并清理"
+    }
+  ],
+  "change": "单次定向修复人物比例；不以元素齐全代替审阅",
+  "userAdoption": "待用户决定"
+}

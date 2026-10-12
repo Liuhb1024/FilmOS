@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-09",
+  "request_file": "试读-面板输入.json",
+  "submission": "MorphFlow /speech 文本配音，点击确认并生成一次",
+  "status": "generated_not_user_adopted",
+  "ui_size_display": "529.3 KB",
+  "browser_duration_seconds": 16.875102,
+  "browser_ready_state": 4,
+  "browser_media_error": null,
+  "output_file": null,
+  "retention": "仍在原面板内存中；刷新会清空。下载工具未导出文件，不冒称已存入资产库。",
+  "automatic_retries": 0,
+  "actual_charge_cny": null,
+  "download_failures": [
+    "downloadMedia超时",
+    "download事件等待超时"
+  ],
+  "generation_calls": 1
+}

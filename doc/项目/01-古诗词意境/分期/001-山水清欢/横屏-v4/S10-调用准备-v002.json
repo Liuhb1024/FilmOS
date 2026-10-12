@@ -1,0 +1,19 @@
+{
+  "status": "已有返回，已归档",
+  "shot": "S10",
+  "actualInput": {
+    "prompt": "只作人物比例与站位的精确局部修改：参考图中的唯一靛灰衣人物太大。把现有人物连同垂手所持的淡黄菊完整缩小到现在身高的20%，保持正常身体比例，放到图左侧房屋前土路更远的一段，头、肩和衣摆仍可辨，双脚确实落在平路。最终人物从头到脚只占画面高度12%左右，景与田野远大于人。原人物空出的区域恢复为自然篱边土路、墙边植物与田野，不留下第二个人、残影或巨大衣服。人物侧背身，肩放松、头略抬望同一低缓南山，手垂一枝菊。保留原有房屋、篱笆、花、田畦、山形、光色和完整机位，不裁切不拉近镜头。人物在自然夕光下，避免额外亮轮廓。只输出完整16:9单帧，最高可用原生画质和目标3840×2160，无字无水印，不锐化、不全图模糊。",
+    "referenced_image_paths": [
+      "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-2a85a0e4-f2b9-47d9-be27-9e6a73ae1017.png"
+    ],
+    "transparent_background": false
+  },
+  "referenceRoles": [
+    {
+      "path": "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-2a85a0e4-f2b9-47d9-be27-9e6a73ae1017.png",
+      "role": "S10 v001局部编辑目标，完成后淘汰并清理"
+    }
+  ],
+  "change": "单次定向返修：人物缩小并退到中远景",
+  "userAdoption": "待用户决定"
+}

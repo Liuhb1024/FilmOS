@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-08",
+  "episodeId": "ep001-shanshui-qinghuan",
+  "shotId": "ep001-h-s01",
+  "beforeVersion": "1791450664319559332-36062",
+  "afterVersion": "1791450921243414888-40110",
+  "onlyChange": "追加S01图像版本ep001-h-s01-image-v001",
+  "allOtherStateUnchanged": true,
+  "imageId": "",
+  "videoId": "",
+  "sourceAndCopyByteIdentical": true,
+  "outputWidth": 1672,
+  "outputHeight": 941,
+  "outputBytes": 2901841,
+  "exact16to9": false
+}

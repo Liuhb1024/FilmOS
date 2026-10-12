@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>FilmOS · 古诗文资料库</title><link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="/">Film<span>OS</span><small>本地资料与制作</small></a>
+    <div class="project-label">当前项目 <span>01</span></div>
+    <h2>古诗词意境</h2>
+    <nav aria-label="工作区">
+      <button data-nav="excerpts" class="nav active"> 意境选句 <b id="excerpt-count">—</b></button>
+      <button data-nav="library" class="nav"> 诗词资料库 <b id="library-count">—</b></button>
+      <button data-nav="episodes" class="nav"> 制作中的作品 <b id="active-count">0</b></button>
+      <button data-nav="archive" class="nav"> 作品存档 <b id="archive-count">0</b></button>
+    </nav>
+    <div class="later"><small>留待以后</small><p>02　中式巨物美学 <em>未启动</em></p><p>03　王者诸韵记 <em>未启动</em></p></div>
+    <div class="local"><span class="dot"></span> 资料保存在本机<small>与 Codex 共用项目文件</small><button id="reload">↻ 重新载入资料</button></div>
+  </aside>
+  <main>
+    <header><span>FILMOS <i>/</i> 古诗词意境</span><span class="edition">本地工作区</span></header>
+    <section id="content" aria-live="polite"><p class="loading">正在读取本地诗词资料…</p></section>
+  </main>
+  <aside id="detail" class="detail" hidden aria-label="作品详情"></aside>
+  <div id="toast" role="status" hidden></div>
+  <dialog id="dialog"></dialog>
+  <script src="/excerpts.js" defer></script>
+  <script src="/app.js" defer></script>
+</body>
+</html>

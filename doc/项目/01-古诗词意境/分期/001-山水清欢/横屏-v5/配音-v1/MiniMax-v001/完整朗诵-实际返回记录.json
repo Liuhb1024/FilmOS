@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-10-09T14:13:41.362858+08:00",
+  "local_endpoint": "http://127.0.0.1:3000/api/speech",
+  "automatic_retries": 0,
+  "events": [
+    {
+      "type": "progress",
+      "message": "请求已提交，等待模型合成…"
+    },
+    {
+      "type": "done",
+      "bytes": 2060818,
+      "format": "mp3",
+      "sampleRate": 44100,
+      "channel": 1,
+      "durationMs": 64339
+    }
+  ],
+  "http_status": 200,
+  "completed_at": "2026-10-09T14:13:43.414412+08:00",
+  "output": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v1/云起时-电台男声-完整朗诵-v001.mp3",
+  "output_bytes": 2060818,
+  "actual_charge_cny": null,
+  "status": "generated_not_user_adopted"
+}

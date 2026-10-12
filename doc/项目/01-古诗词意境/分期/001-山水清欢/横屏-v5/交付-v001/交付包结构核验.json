@@ -1,0 +1,42 @@
+{
+  "file_count": 42,
+  "video_count": 16,
+  "sentence_mp3_count": 20,
+  "full_reference_mp3_count": 1,
+  "csv_rows": 20,
+  "covered_shots": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S15",
+    "S16"
+  ],
+  "chinese_characters": 104,
+  "all_relative_media_references_exist": true,
+  "text_and_docx_sensitive_pattern_scan": "passed",
+  "scanned_files": [
+    "00-先读我.txt",
+    "00-剪辑交接说明.docx",
+    "04-诗句与视频对应表.csv",
+    "06-朗读与字幕正文.txt"
+  ],
+  "document_visual_review": "4 pages inspected; Chinese visible; tables and headings fit; no blank page",
+  "new_model_calls": 0,
+  "new_model_cost": 0,
+  "zip_crc_check": "passed",
+  "zip_file_count": 42,
+  "zip_size_bytes": 125328986,
+  "zip_path": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/交付/云起时-剪辑交付-v001.zip",
+  "package_bytes": 126122829
+}

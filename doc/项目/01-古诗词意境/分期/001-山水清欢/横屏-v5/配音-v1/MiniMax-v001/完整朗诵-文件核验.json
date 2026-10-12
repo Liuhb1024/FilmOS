@@ -1,0 +1,22 @@
+{
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1,
+        "bit_rate": "256000"
+      }
+    ],
+    "format": {
+      "duration": "64.339592",
+      "size": "2060818",
+      "bit_rate": "256242"
+    }
+  },
+  "ffmpeg_decode_exit_code": 0,
+  "subjective_listening": "not_verified",
+  "user_adopted": false
+}

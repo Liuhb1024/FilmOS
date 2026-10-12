@@ -1,0 +1,35 @@
+[
+  {
+    "id": "MOD-001",
+    "title": "沁园春·长沙",
+    "author": "毛泽东",
+    "text": "独立寒秋，湘江北去。",
+    "sourceUrl": "https://whhlyt.hunan.gov.cn/whhlyt/news/mtjj/201909/t20190910_5465038.html",
+    "stage": "高中",
+    "genre": "词",
+    "scope": "现代教材作品目录",
+    "book": "统编高中语文必修上册",
+    "curriculumSourceUrl": "https://www.cp.com.cn/book/21e64014-0.html",
+    "notes": "商务印书馆官方教辅目录实读：必修上册第一单元列《沁园春·长沙》。湖南省文旅厅页面核实作者、题名和短引文。本记录不是古代公版全文，也不计入古代全文覆盖数；具体教材印次仍待核。",
+    "textScope": "目录与短引文，未收全文",
+    "status": "仅目录与短引文",
+    "accessedAt": "2026-10-08"
+  },
+  {
+    "id": "MOD-002",
+    "title": "沁园春·雪",
+    "author": "毛泽东",
+    "text": "北国风光，千里冰封。",
+    "sourceUrl": "https://zhuanti.mct.gov.cn/rxhmxjgn2022/shanxi/detail/2799.html",
+    "stage": "初中",
+    "genre": "词",
+    "scope": "现代教材作品目录",
+    "book": "统编初中语文九年级上册",
+    "curriculumSourceUrl": "https://www.xxgc.edu.cn/chinese/youxiujiaoxueanlihuibianer.pdf",
+    "additionalSourceUrl": "https://www.cp.com.cn/book/0bea2bc7-9.html",
+    "notes": "实际读取新乡工程学院托管的国家中小学智慧教育平台课程汇编PDF，九年级上册第一单元列《沁园春·雪》；商务印书馆官方教辅目录交叉核实。文旅部公开页面核实作者、题名和短引文，不采用其创作地点解释。本记录不是古代公版全文，不计入古代全文覆盖数。",
+    "textScope": "目录与短引文，未收全文",
+    "status": "仅目录与短引文",
+    "accessedAt": "2026-10-08"
+  }
+]

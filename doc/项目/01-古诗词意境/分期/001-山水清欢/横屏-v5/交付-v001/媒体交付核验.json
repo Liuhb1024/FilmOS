@@ -1,0 +1,196 @@
+{
+  "full_decode": [
+    {
+      "file": "01-视频/S01-云起时-01.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S02-云起时-02.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S03-云起时-03.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S04-云起时-04.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S05-云起时-05.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S06-云起时-06.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S07-云起时-07.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S08-云起时-08.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S09-云起时-09.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S10-云起时-10.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S11-云起时-11.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S12-云起时-12.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S13-云起时-13.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S14-云起时-14.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S15-云起时-15.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "01-视频/S16-云起时-16.mp4",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A01-空山新雨后.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A02-天气晚来秋.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A03-返景入深林.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A04-复照青苔上.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A05-只在此山中.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A06-云深不知处.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A07-行到水穷处.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A08-坐看云起时.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A09-山光悦鸟性.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A10-潭影空人心.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A11-采菊东篱下.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A12-悠然见南山.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A13-山气日夕佳.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A14-飞鸟相与还.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A15-明月松间照.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A16-清泉石上流.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A17-湖光秋月两相和.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A18-潭面无风镜未磨.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A19-此中有真意.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "02-逐句配音/A20-欲辨已忘言.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    },
+    {
+      "file": "03-整段参考/云起时-完整朗诵-v001.mp3",
+      "exit_code": 0,
+      "decode_errors": ""
+    }
+  ],
+  "original_video_copies_byte_equal": true,
+  "original_audio_copy_byte_equal": true,
+  "sentence_count": 20,
+  "video_count": 16,
+  "audio_format": "44100 Hz / 256000 bit/s / mono",
+  "new_model_calls": 0,
+  "new_model_cost": 0
+}

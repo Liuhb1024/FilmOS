@@ -1,0 +1,34 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Local media and source downloads. Keep Markdown asset cards in Git.
+/doc/**/*.png
+/doc/**/*.jpg
+/doc/**/*.jpeg
+/doc/**/*.webp
+/doc/**/*.gif
+/doc/**/*.tif
+/doc/**/*.tiff
+/doc/**/*.heic
+/doc/**/*.mp4
+/doc/**/*.mov
+/doc/**/*.mkv
+/doc/**/*.webm
+/doc/**/*.wav
+/doc/**/*.mp3
+/doc/**/*.m4a
+/doc/**/*.flac
+/doc/**/*.pdf
+/doc/**/*.zip
+/doc/**/*.psd
+/doc/**/*.blend
+
+# Local Python bytecode and disposable dashboard verification files
+__pycache__/
+*.pyc
+/doc/看板/测试工作区/
+
+# Disposable font cache produced while rendering delivery documents
+/doc/**/font-cache/

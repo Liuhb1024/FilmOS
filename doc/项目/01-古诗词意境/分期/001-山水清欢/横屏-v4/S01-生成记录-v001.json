@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "shot": "S01",
+  "version": "v001",
+  "status": "助手否决·图片已删除",
+  "userAdoption": "待用户决定",
+  "review": "否决：生成了未要求的山居建筑、粗大前景树干与密集湿石，画面暗重、纹理仍满，未达到本轮简练大形与温润空气的目标。人物尺度比请求大；不作为后续风格参考。",
+  "tool": "image_gen.imagegen",
+  "model": "未知，内置工具未暴露",
+  "quality": "未知，工具未暴露；输入请求最高可用",
+  "seed": "未知",
+  "cost": "未知，工具未返回",
+  "calls": 1,
+  "output": {
+    "original": "/Users/huabi/.codex/generated_images/01a11b7d-e439-78b2-aaef-ca06fddfc39d/exec-2aaa32fa-d1a7-4d7c-ad89-2f0ba6ce7aba.png",
+    "project": null,
+    "width": 1672,
+    "height": 941,
+    "bytes": 2611101,
+    "native4k": false,
+    "exact16to9": false,
+    "deleted": true
+  },
+  "promptDeletion": "按2026-10-08最新用户要求删除失败完整输入，保留原因与消耗记录。"
+}

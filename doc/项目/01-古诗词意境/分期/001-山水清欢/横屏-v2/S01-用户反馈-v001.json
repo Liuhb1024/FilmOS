@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-08",
+  "shotId": "ep001-h-s01",
+  "imageVersionId": "ep001-h-s01-image-v001",
+  "decision": "用户明确否决",
+  "score": 0,
+  "userFeedback": "美度不高，没有Midjourney那么好看；缺少中式美学和滤镜感；锐化太严重；太丑、不过关、零分。",
+  "next": "重写构图与影调提示词；v002仅草案，未生成。v001保留为失败试验，不作后续制作或风格参考。",
+  "evidenceBoundary": "用户提到GPT 2；实际生成工具未返回具体模型名称，不能据此补填已确认模型版本。Midjourney为用户审美比较，未开展同输入对照测试。"
+}

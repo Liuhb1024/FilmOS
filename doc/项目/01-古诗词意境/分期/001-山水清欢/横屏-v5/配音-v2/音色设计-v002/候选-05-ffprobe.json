@@ -1,0 +1,64 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "mp3",
+      "codec_long_name": "MP3 (MPEG audio layer 3)",
+      "codec_type": "audio",
+      "codec_tag_string": "[0][0][0][0]",
+      "codec_tag": "0x0000",
+      "sample_fmt": "fltp",
+      "sample_rate": "32000",
+      "channels": 1,
+      "channel_layout": "mono",
+      "bits_per_sample": 0,
+      "initial_padding": 0,
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/14112000",
+      "start_pts": 487305,
+      "start_time": "0.034531",
+      "duration_ts": 648756864,
+      "duration": "45.972000",
+      "bit_rate": "96000",
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0,
+        "non_diegetic": 0,
+        "captions": 0,
+        "descriptions": 0,
+        "metadata": 0,
+        "dependent": 0,
+        "still_image": 0,
+        "multilayer": 0
+      }
+    }
+  ],
+  "format": {
+    "filename": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v002/云起时-音色候选-05.mp3",
+    "nb_streams": 1,
+    "nb_programs": 0,
+    "nb_stream_groups": 0,
+    "format_name": "mp3",
+    "format_long_name": "MP2/3 (MPEG audio layer 2/3)",
+    "start_time": "0.034531",
+    "duration": "45.972000",
+    "size": "553236",
+    "bit_rate": "96273",
+    "probe_score": 51,
+    "tags": {
+      "AIGC": "{\"Label\":\"1\",\"ContentProducer\":\"MiniMax\",\"ProduceID\":\"0717cb27062e79b63d1c5acc99619743\",\"ReservedCode1\":\"{\\\"SecurityData\\\":{\\\"Type\\\":\\\"TC260PG\\\",\\\"Version\\\":1,\\\"PubSD\\\":[{\\\"Type\\\":\\\"DS\\\",\\\"AlgID\\\":\\\"1.2.156.10197.1.501\\\",\\\"TBSData\\\":{\\\"Type\\\":\\\"LabelMataData\\\"},\\\"Signature\\\":\\\"d3993234ddb3c6e254ce3b74ab59874b572c9bd27d12191b00b4ae3238f503df210d0ae64ed3329e5d1d0d6e490d715c9aa2eedce3f8a1925e3502a22e0e6e12\\\"},{\\\"Type\\\":\\\"DS\\\",\\\"AlgID\\\":\\\"1.2.156.10197.1.501\\\",\\\"TBSData\\\":{\\\"Type\\\":\\\"Binding\\\",\\\"BType\\\":\\\"0\\\"},\\\"Signature\\\":\\\"ccf75d88020dd8d1d038eb59966541994d8eda34979929655045f50d20f1390275258113f9c216015052562480e246e155a2ef397fb8af6dd13bb4b617a13728\\\"},{\\\"Type\\\":\\\"PubKey\\\",\\\"AlgID\\\":\\\"1.2.156.10197.1.501\\\",\\\"TBSData\\\":{\\\"Type\\\":\\\"\\\"},\\\"KeyValue\\\":\\\"00a0b3b0b6a0c9b0c89cab328342af4e8221ec5b40799cbe835ab4251f7b47e4fd\\\"}],\\\"Bindings\\\":[{\\\"Type\\\":\\\"Hash\\\",\\\"AlgID\\\":\\\"1.2.156.10197.1.401\\\",\\\"TBSData\\\":{\\\"Type\\\":\\\"\\\"},\\\"Signature\\\":\\\"cf75d880762c695f905f01dc76ba93f35657031662b49e48ef1847501c3540d6\\\"}]}}\",\"ContentPropagator\":\"MiniMax\",\"PropagateID\":\"\",\"ReservedCode2\":\"\"}",
+      "encoder": "Lavf59.27.100"
+    }
+  }
+}

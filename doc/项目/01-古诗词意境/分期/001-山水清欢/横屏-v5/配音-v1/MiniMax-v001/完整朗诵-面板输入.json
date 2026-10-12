@@ -1,0 +1,36 @@
+{
+  "input": "空山新雨后，<#0.7#>天气晚来秋。<#1.6#>\n返景入深林，<#0.7#>复照青苔上。<#1.6#>\n只在此山中，<#0.7#>云深不知处。<#1.6#>\n行到水穷处，<#0.7#>坐看云起时。<#1.6#>\n山光悦鸟性，<#0.7#>潭影空人心。<#1.6#>\n采菊东篱下，<#0.7#>悠然见南山。<#1.6#>\n山气日夕佳，<#0.7#>飞鸟相与还。<#1.6#>\n明月松间照，<#0.7#>清泉石上流。<#1.6#>\n湖光秋月两相和，<#0.7#>潭面无风镜未磨。<#1.6#>\n此中有真意，<#0.7#>欲辨已忘言。",
+  "stream": false,
+  "stream_options": {
+    "exclude_aggregated_audio": false
+  },
+  "voice_setting": {
+    "voice_id": "Chinese (Mandarin)_Radio_Host",
+    "speed": 0.88,
+    "vol": 1,
+    "pitch": 0,
+    "emotion": "calm",
+    "text_normalization": false,
+    "latex_read": false
+  },
+  "audio_setting": {
+    "sample_rate": 44100,
+    "bitrate": 256000,
+    "format": "mp3",
+    "channel": 1,
+    "force_cbr": false
+  },
+  "pronunciation_dict": {
+    "tone": [
+      "返景/(fan3)(jing3)",
+      "潭影空人心/(tan2)(ying3)(kong1)(ren2)(xin1)",
+      "飞鸟相与还/(fei1)(niao3)(xiang1)(yu3)(huan2)",
+      "两相和/(liang3)(xiang1)(he2)",
+      "镜未磨/(jing4)(wei4)(mo2)"
+    ]
+  },
+  "language_boost": "Chinese",
+  "subtitle_enable": false,
+  "output_format": "hex",
+  "aigc_watermark": false
+}

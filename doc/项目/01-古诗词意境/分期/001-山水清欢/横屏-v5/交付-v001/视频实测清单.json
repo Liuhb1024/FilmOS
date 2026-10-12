@@ -1,0 +1,450 @@
+[
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-01.mp4",
+    "name": "云起时-01.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "5458552"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-02.mp4",
+    "name": "云起时-02.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "4832625"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-03.mp4",
+    "name": "云起时-03.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "3914682"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-04.mp4",
+    "name": "云起时-04.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "4867715"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-05.mp4",
+    "name": "云起时-05.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "19540404"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-06.mp4",
+    "name": "云起时-06.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "17058837"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-07.mp4",
+    "name": "云起时-07.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "7167030"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-08.mp4",
+    "name": "云起时-08.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "14412069"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-09.mp4",
+    "name": "云起时-09.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "6.041667",
+        "nb_frames": "145"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "6.037007",
+        "nb_frames": "262"
+      }
+    ],
+    "format": {
+      "duration": "6.041667",
+      "size": "4356580"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-10.mp4",
+    "name": "云起时-10.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "5568021"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-11.mp4",
+    "name": "云起时-11.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "3215113"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-12.mp4",
+    "name": "云起时-12.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "8313873"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-13.mp4",
+    "name": "云起时-13.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "10812064"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-14.mp4",
+    "name": "云起时-14.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "3504085"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-15.mp4",
+    "name": "云起时-15.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "3371197"
+    }
+  },
+  {
+    "path": "/Users/huabi/video/古诗词-云起时/云起时-16.mp4",
+    "name": "云起时-16.mp4",
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "hevc",
+        "codec_type": "video",
+        "width": 1916,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "duration": "5.041667",
+        "nb_frames": "121"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "r_frame_rate": "0/0",
+        "duration": "5.039002",
+        "nb_frames": "219"
+      }
+    ],
+    "format": {
+      "duration": "5.041667",
+      "size": "5992713"
+    }
+  }
+]

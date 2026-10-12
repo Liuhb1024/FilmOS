@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-08T15:10:39.644188+00:00",
+  "command": "python3 -",
+  "checks": {
+    "shotSections": 16,
+    "completePromptBlocks": 16,
+    "matchingAdoptedImageEmbeds": 16,
+    "timelineSeconds": 100,
+    "suggestedGenerationSeconds": 116,
+    "sourceImagesByteIdenticalToArchivedOriginals": 16,
+    "sourceImageBytes": 38981080,
+    "sourceImagePixels": [
+      1672,
+      941
+    ],
+    "boardStillAdoptsV5Images": 16,
+    "videoVersionsAdded": 0,
+    "localLinksChecked": 108,
+    "externalLinksSyntaxChecked": 43,
+    "externalDomainsDiscovered": 19,
+    "commonCredentialPatternHits": 0
+  },
+  "scope": "内联标准库脚本核对镜号、时序、原句、16张首帧、原副本字节、看板既有采用、Markdown链接存在与URL语法；未联网复查全部URL可达性，未评测提示词执行或视频质量。",
+  "newVideoCalls": 0,
+  "uploads": 0,
+  "newImageCalls": 0,
+  "videoGenerationCost": 0,
+  "limits": [
+    "16条输入待平台实测、待用户采用",
+    "实际账号最高质量、4K组合、当前费用与输出帧率未核验",
+    "来源播放采样与正文证据层级详见研究，未声称全部教程已看完",
+    "本轮纯文档，无代码行为改动，因此未运行代码测试，也未新增测试"
+  ],
+  "postReview": "S15将呼气表述改成自然呼吸与肩部放松，避免暗示可见白气；复核16个完整提交词与16个原图链接仍一致。当前进度入口同步到视频待试阶段。"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "prepared_not_submitted",
+  "reference": "/Users/huabi/code/FilmOS/doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v2/S01-image-v005.png",
+  "endpoint": "POST /v1/images/edits",
+  "parameters": {
+    "model": "gpt-image-2.5-sunburst",
+    "quality": "max",
+    "size": "3840x2160",
+    "output_format": "png",
+    "background": "opaque",
+    "n": 1,
+    "prompt": "以提供的S01 v005图片为唯一编辑目标，制作同一画面的高分辨率精修版本，用于横屏古诗词短片《云起时》：“空山新雨后，天气晚来秋”。\n\n严格保持当前构图、镜头位置和主要对象关系：左上古松的枝干走势、左下苔石、前中远三层山势、右上山峰轮廓、谷间薄雾分布和少量秋色。保持青绿灰与淡暖雾光、含蓄中式意境、柔和光学质感。不要重新设计场景，不增加或删除树木山峰，不改变光线与雾量。\n\n只在高分辨率输出中自然呈现原有形态和层次。松针、树皮、苔藓细节清楚但温润，微小纹理对比克制；近景不出现刺眼雨露白点、硬反光、边缘白边或锐化光晕。远山保持空气透视和虚实关系。不做过度锐化、边缘增强、HDR、全图涂抹或全图虚化。不要为了显得高清新增密集细节。\n\n只输出一张16:9横屏图，无人物、建筑、文字、水印和黑边。"
+  },
+  "actual_model": null,
+  "actual_cost": null,
+  "actual_output": null
+}

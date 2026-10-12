@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-08",
+  "scope": "本期S02–S14新图与S15/S16复用",
+  "textFilesChecked": 49,
+  "jsonAndLocalLinksValid": true,
+  "scopedCredentialPatternCheck": true,
+  "newImages": 13,
+  "allNewImages1672x941": true,
+  "allNewImagesGitIgnored": true,
+  "adoptionFieldsEmpty": true,
+  "reuseSourceExists": true,
+  "newCodeChanges": false,
+  "codeTests": "未重跑：无代码修改",
+  "apiCalls": 0,
+  "imagegenCalls": 16,
+  "cost": "未知（工具未返回）",
+  "externalDependencyInstalls": 0,
+  "gitCommitOrPush": false,
+  "boardVersion": "1791456401482038364-95435"
+}

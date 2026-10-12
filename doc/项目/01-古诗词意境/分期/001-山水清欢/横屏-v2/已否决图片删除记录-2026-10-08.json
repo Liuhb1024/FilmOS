@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-08",
+  "authorization": "用户要求不通过的图片一律删除，不留在项目；最新指令覆盖旧失败媒体保留约定。",
+  "deleted": [
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v2/S01-image-v001.png",
+      "existedBefore": true,
+      "bytesBefore": 2901841,
+      "existsAfter": false
+    },
+    {
+      "path": "/Users/huabi/.codex/generated_images/01a11ac8-d633-7110-9382-0b933d00b877/exec-d3b39de7-2ac4-41a3-ae48-017ae3282759.png",
+      "existedBefore": true,
+      "bytesBefore": 2901841,
+      "existsAfter": false
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/08-松月清泉-v1.png",
+      "existedBefore": true,
+      "bytesBefore": 3092674,
+      "existsAfter": false
+    }
+  ],
+  "historicalText": "保留完整提示词、否决决定及历史路径；历史路径为删除凭证，不代表文件仍在。",
+  "scope": "删除本期两张已被否决的项目候选及本线程已知生成原件；不扫描或删除其他线程未定位的缓存。"
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-09",
+  "new_phase_files": 21,
+  "local_links_checked": 16,
+  "new_audio_files": 3,
+  "old_candidates_exist_same_byte_sizes": true,
+  "input_same_104_han_142_chars": true,
+  "credential_pattern_scan": "passed",
+  "media_decode": "3 passed",
+  "audio_adopted": false,
+  "subjective_audio_review": "not performed",
+  "source_app_code_changes_by_this_task": false,
+  "new_dependency_install": false,
+  "git_commit_push": false,
+  "additional_sha256": false
+}

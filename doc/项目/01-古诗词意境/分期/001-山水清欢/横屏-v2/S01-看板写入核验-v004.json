@@ -1,0 +1,12 @@
+{
+  "beforeVersion": "1791451072680947075-40380",
+  "afterVersion": "1791452127649143822-46595",
+  "changes": "S01追加v003已删除文字记录、v004新候选；S01及旧S08的idea追加媒体状态。",
+  "allOtherStateUnchanged": true,
+  "adoptionEmpty": true,
+  "outputWidth": 1672,
+  "outputHeight": 941,
+  "outputBytes": 2908867,
+  "exact16to9": false,
+  "native4k": false
+}

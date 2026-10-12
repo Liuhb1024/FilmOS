@@ -1,0 +1,6024 @@
+{
+  "revision": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "rawByCollection": {
+    "唐诗三百首": 320,
+    "千家诗": 219,
+    "古文观止": 222,
+    "诗经": 305,
+    "楚辞": 65,
+    "宋词三百首": 280,
+    "全宋词": 21050
+  },
+  "acceptedNewRecords": 21259,
+  "duplicateCount": 303,
+  "excludedCount": 899,
+  "duplicates": [
+    {
+      "sourceId": "EXT-TS-0002",
+      "existingId": "P009",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0006",
+      "existingId": "P014",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0011",
+      "existingId": "P017",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0017",
+      "existingId": "PS034",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0018",
+      "existingId": "P010",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0020",
+      "existingId": "P043",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0024",
+      "existingId": "P044",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0030",
+      "existingId": "P013",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0033",
+      "existingId": "P016",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0034",
+      "existingId": "P011",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0040",
+      "existingId": "P022",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0045",
+      "existingId": "PS017",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0046",
+      "existingId": "CZ-024",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0057",
+      "existingId": "CZ-022",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0058",
+      "existingId": "CZ-023",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0061",
+      "existingId": "P030",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0068",
+      "existingId": "P029",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0071",
+      "existingId": "P007",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0078",
+      "existingId": "PS040",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0089",
+      "existingId": "GZ-041",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0095",
+      "existingId": "P037",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0109",
+      "existingId": "GZ-049",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0117",
+      "existingId": "CZ-015",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0127",
+      "existingId": "PS039",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0179",
+      "existingId": "GZ-053",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0189",
+      "existingId": "PS030",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0190",
+      "existingId": "GZ-048",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0202",
+      "existingId": "CZ-013",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0272",
+      "existingId": "CZ-008",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0277",
+      "existingId": "P008",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0278",
+      "existingId": "P012",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0313",
+      "existingId": "P033",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-TS-0319",
+      "existingId": "P032",
+      "collection": "唐诗三百首"
+    },
+    {
+      "sourceId": "EXT-QJ-0001",
+      "existingId": "P010",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0005",
+      "existingId": "PS022",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0006",
+      "existingId": "P009",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0008",
+      "existingId": "EXT-TS-0019",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0013",
+      "existingId": "EXT-TS-0007",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0027",
+      "existingId": "P044",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0029",
+      "existingId": "P017",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0041",
+      "existingId": "EXT-TS-0121",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0048",
+      "existingId": "CZ-009",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0056",
+      "existingId": "EXT-TS-0081",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0075",
+      "existingId": "EXT-TS-0129",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0076",
+      "existingId": "EXT-TS-0087",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0085",
+      "existingId": "P065",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0089",
+      "existingId": "P034",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0090",
+      "existingId": "P050",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0096",
+      "existingId": "EXT-TS-0287",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0098",
+      "existingId": "P025",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0101",
+      "existingId": "P046",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0103",
+      "existingId": "PS040",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0104",
+      "existingId": "P047",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0114",
+      "existingId": "P030",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0134",
+      "existingId": "P058",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0139",
+      "existingId": "P061",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0140",
+      "existingId": "P069",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0142",
+      "existingId": "PS028",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0144",
+      "existingId": "EXT-TS-0075",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0145",
+      "existingId": "P015",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0155",
+      "existingId": "P064",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0162",
+      "existingId": "P066",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0165",
+      "existingId": "PS016",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0166",
+      "existingId": "P029",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0173",
+      "existingId": "CZ-023",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-QJ-0194",
+      "existingId": "EXT-TS-0197",
+      "collection": "千家诗"
+    },
+    {
+      "sourceId": "EXT-GW-0107",
+      "existingId": "GZ-016",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-GW-0117",
+      "existingId": "CZ-053",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-GW-0124",
+      "existingId": "GZ-005",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-GW-0147",
+      "existingId": "GZ-017",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-GW-0167",
+      "existingId": "GZ-018",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-GW-0189",
+      "existingId": "GZ-019",
+      "collection": "古文观止"
+    },
+    {
+      "sourceId": "EXT-SJ-0001",
+      "existingId": "CZ-001",
+      "collection": "诗经"
+    },
+    {
+      "sourceId": "EXT-SJ-0042",
+      "existingId": "GZ-033",
+      "collection": "诗经"
+    },
+    {
+      "sourceId": "EXT-SJ-0129",
+      "existingId": "CZ-002",
+      "collection": "诗经"
+    },
+    {
+      "sourceId": "EXT-SJ-0133",
+      "existingId": "GZ-034",
+      "collection": "诗经"
+    },
+    {
+      "sourceId": "EXT-S3-0061",
+      "existingId": "GZ-066",
+      "collection": "宋词三百首"
+    },
+    {
+      "sourceId": "EXT-S3-0160",
+      "existingId": "CZ-028",
+      "collection": "宋词三百首"
+    },
+    {
+      "sourceId": "EXT-S3-0215",
+      "existingId": "GZ-068",
+      "collection": "宋词三百首"
+    },
+    {
+      "sourceId": "EXT-SC00000-0012",
+      "existingId": "EXT-S3-0139",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0042",
+      "existingId": "EXT-S3-0140",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0043",
+      "existingId": "CZ-027",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0044",
+      "existingId": "EXT-S3-0141",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0069",
+      "existingId": "EXT-S3-0142",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0090",
+      "existingId": "EXT-S3-0143",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0100",
+      "existingId": "EXT-S3-0144",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0111",
+      "existingId": "EXT-S3-0145",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0147",
+      "existingId": "EXT-S3-0148",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0185",
+      "existingId": "GZ-055",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0188",
+      "existingId": "EXT-S3-0151",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0202",
+      "existingId": "EXT-S3-0153",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0205",
+      "existingId": "EXT-S3-0154",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0263",
+      "existingId": "EXT-S3-0155",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0353",
+      "existingId": "EXT-S3-0158",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0420",
+      "existingId": "EXT-S3-0159",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0436",
+      "existingId": "CZ-028",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0444",
+      "existingId": "EXT-S3-0161",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0459",
+      "existingId": "EXT-S3-0162",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0460",
+      "existingId": "EXT-S3-0163",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0506",
+      "existingId": "EXT-S3-0166",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0563",
+      "existingId": "EXT-S3-0168",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0613",
+      "existingId": "EXT-SC00000-0306",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0616",
+      "existingId": "EXT-S3-0171",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0617",
+      "existingId": "EXT-S3-0172",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0640",
+      "existingId": "EXT-S3-0173",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC00000-0727",
+      "existingId": "EXT-S3-0177",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0056",
+      "existingId": "EXT-S3-0017",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0092",
+      "existingId": "EXT-S3-0019",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0121",
+      "existingId": "EXT-S3-0021",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0127",
+      "existingId": "EXT-S3-0022",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0134",
+      "existingId": "EXT-S3-0023",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0157",
+      "existingId": "EXT-S3-0025",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0212",
+      "existingId": "EXT-S3-0028",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0221",
+      "existingId": "EXT-S3-0029",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0230",
+      "existingId": "EXT-S3-0030",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0231",
+      "existingId": "EXT-S3-0031",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0271",
+      "existingId": "EXT-S3-0033",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0302",
+      "existingId": "EXT-S3-0034",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0339",
+      "existingId": "EXT-S3-0035",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0347",
+      "existingId": "EXT-S3-0036",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0382",
+      "existingId": "EXT-S3-0037",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0451",
+      "existingId": "EXT-S3-0038",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0460",
+      "existingId": "EXT-S3-0039",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0499",
+      "existingId": "EXT-S3-0040",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0556",
+      "existingId": "EXT-S3-0042",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0574",
+      "existingId": "CZ-030",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0579",
+      "existingId": "EXT-S3-0045",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0636",
+      "existingId": "EXT-SC00000-0500",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0716",
+      "existingId": "EXT-S3-0047",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0841",
+      "existingId": "EXT-S3-0049",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0937",
+      "existingId": "EXT-S3-0050",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC01000-0995",
+      "existingId": "EXT-SC01000-0790",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0177",
+      "existingId": "EXT-S3-0102",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0695",
+      "existingId": "PS048",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0838",
+      "existingId": "EXT-S3-0103",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0840",
+      "existingId": "EXT-S3-0104",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0860",
+      "existingId": "EXT-S3-0105",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0866",
+      "existingId": "EXT-S3-0106",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0868",
+      "existingId": "EXT-S3-0107",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0875",
+      "existingId": "EXT-SC01000-0372",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC02000-0917",
+      "existingId": "EXT-S3-0108",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0282",
+      "existingId": "GZ-066",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0374",
+      "existingId": "EXT-S3-0062",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0718",
+      "existingId": "EXT-S3-0065",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0728",
+      "existingId": "EXT-S3-0066",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0734",
+      "existingId": "EXT-S3-0067",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0763",
+      "existingId": "EXT-SC01000-0371",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0768",
+      "existingId": "EXT-S3-0069",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0781",
+      "existingId": "EXT-S3-0070",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0799",
+      "existingId": "EXT-SC01000-0630",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0800",
+      "existingId": "EXT-SC01000-0631",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0843",
+      "existingId": "EXT-S3-0072",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0868",
+      "existingId": "EXT-S3-0073",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0938",
+      "existingId": "EXT-S3-0074",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC03000-0970",
+      "existingId": "EXT-S3-0075",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0154",
+      "existingId": "EXT-S3-0221",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0207",
+      "existingId": "EXT-S3-0222",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0318",
+      "existingId": "EXT-SC04000-0268",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0358",
+      "existingId": "EXT-S3-0225",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0359",
+      "existingId": "EXT-S3-0226",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0361",
+      "existingId": "EXT-S3-0227",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0366",
+      "existingId": "EXT-S3-0228",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0370",
+      "existingId": "EXT-S3-0229",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0372",
+      "existingId": "EXT-S3-0230",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0391",
+      "existingId": "EXT-S3-0231",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0421",
+      "existingId": "EXT-S3-0233",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0433",
+      "existingId": "EXT-S3-0236",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0439",
+      "existingId": "EXT-S3-0238",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0444",
+      "existingId": "EXT-S3-0239",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0452",
+      "existingId": "EXT-S3-0240",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0750",
+      "existingId": "EXT-SC02000-0989",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC04000-0809",
+      "existingId": "EXT-S3-0248",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0224",
+      "existingId": "EXT-S3-0264",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0416",
+      "existingId": "EXT-S3-0268",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0463",
+      "existingId": "EXT-S3-0269",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0487",
+      "existingId": "EXT-S3-0270",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0569",
+      "existingId": "EXT-S3-0271",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0571",
+      "existingId": "EXT-S3-0272",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0880",
+      "existingId": "EXT-S3-0273",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC05000-0966",
+      "existingId": "EXT-S3-0274",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0309",
+      "existingId": "EXT-S3-0190",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0450",
+      "existingId": "EXT-S3-0193",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0451",
+      "existingId": "EXT-S3-0194",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0458",
+      "existingId": "EXT-S3-0195",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0487",
+      "existingId": "EXT-S3-0196",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0489",
+      "existingId": "EXT-S3-0197",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0537",
+      "existingId": "EXT-S3-0199",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0625",
+      "existingId": "EXT-S3-0200",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0693",
+      "existingId": "EXT-S3-0201",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0711",
+      "existingId": "EXT-S3-0203",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0712",
+      "existingId": "EXT-S3-0204",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0724",
+      "existingId": "EXT-SC01000-0405",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0855",
+      "existingId": "EXT-SC02000-0879",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0856",
+      "existingId": "EXT-SC02000-0880",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0857",
+      "existingId": "EXT-SC02000-0881",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0926",
+      "existingId": "EXT-S3-0206",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC06000-0997",
+      "existingId": "EXT-S3-0207",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0135",
+      "existingId": "EXT-S3-0111",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0213",
+      "existingId": "EXT-S3-0113",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0225",
+      "existingId": "EXT-S3-0114",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0243",
+      "existingId": "EXT-S3-0116",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0365",
+      "existingId": "EXT-S3-0117",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC07000-0982",
+      "existingId": "EXT-S3-0118",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC08000-0847",
+      "existingId": "EXT-S3-0058",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC08000-0849",
+      "existingId": "EXT-S3-0059",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC08000-0891",
+      "existingId": "EXT-S3-0060",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC09000-0414",
+      "existingId": "EXT-S3-0011",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC09000-0417",
+      "existingId": "EXT-S3-0012",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC09000-0428",
+      "existingId": "EXT-S3-0013",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC09000-0848",
+      "existingId": "EXT-S3-0014",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0021",
+      "existingId": "EXT-S3-0276",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0068",
+      "existingId": "EXT-S3-0277",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0072",
+      "existingId": "EXT-S3-0278",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0323",
+      "existingId": "EXT-S3-0279",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0342",
+      "existingId": "EXT-S3-0280",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0576",
+      "existingId": "EXT-SC10000-0573",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0577",
+      "existingId": "EXT-SC10000-0574",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC10000-0578",
+      "existingId": "EXT-SC10000-0575",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0110",
+      "existingId": "EXT-S3-0208",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0164",
+      "existingId": "EXT-S3-0211",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0175",
+      "existingId": "EXT-S3-0212",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0181",
+      "existingId": "EXT-S3-0213",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0184",
+      "existingId": "EXT-S3-0214",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0196",
+      "existingId": "GZ-068",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0228",
+      "existingId": "EXT-S3-0216",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0273",
+      "existingId": "PS035",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0396",
+      "existingId": "EXT-S3-0218",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0508",
+      "existingId": "CZ-035",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC11000-0705",
+      "existingId": "EXT-S3-0219",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0407",
+      "existingId": "EXT-S3-0119",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0505",
+      "existingId": "EXT-S3-0120",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0529",
+      "existingId": "EXT-S3-0121",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0658",
+      "existingId": "EXT-S3-0122",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0669",
+      "existingId": "EXT-S3-0123",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0672",
+      "existingId": "EXT-S3-0124",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0683",
+      "existingId": "EXT-S3-0126",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0685",
+      "existingId": "EXT-S3-0128",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0687",
+      "existingId": "EXT-S3-0129",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0688",
+      "existingId": "EXT-S3-0130",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0704",
+      "existingId": "EXT-S3-0134",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0705",
+      "existingId": "EXT-S3-0135",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0707",
+      "existingId": "EXT-S3-0136",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC12000-0708",
+      "existingId": "EXT-S3-0137",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0175",
+      "existingId": "EXT-S3-0178",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0385",
+      "existingId": "EXT-S3-0179",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0386",
+      "existingId": "EXT-S3-0180",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0390",
+      "existingId": "EXT-S3-0181",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0395",
+      "existingId": "EXT-S3-0182",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0410",
+      "existingId": "EXT-S3-0183",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0437",
+      "existingId": "EXT-S3-0184",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0461",
+      "existingId": "EXT-S3-0185",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0473",
+      "existingId": "EXT-S3-0187",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0731",
+      "existingId": "EXT-S3-0188",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC13000-0734",
+      "existingId": "EXT-S3-0189",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0050",
+      "existingId": "EXT-S3-0051",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0302",
+      "existingId": "EXT-S3-0052",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0591",
+      "existingId": "EXT-S3-0053",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0708",
+      "existingId": "EXT-S3-0054",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0734",
+      "existingId": "EXT-S3-0056",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0752",
+      "existingId": "GZ-070",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC14000-0799",
+      "existingId": "EXT-S3-0057",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0427",
+      "existingId": "EXT-S3-0001",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0879",
+      "existingId": "EXT-S3-0003",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0883",
+      "existingId": "EXT-S3-0005",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0916",
+      "existingId": "EXT-S3-0006",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0967",
+      "existingId": "EXT-S3-0008",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC15000-0995",
+      "existingId": "EXT-S3-0010",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0033",
+      "existingId": "EXT-S3-0080",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0051",
+      "existingId": "EXT-S3-0082",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0060",
+      "existingId": "EXT-S3-0083",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0085",
+      "existingId": "EXT-S3-0084",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0100",
+      "existingId": "EXT-S3-0085",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0115",
+      "existingId": "EXT-S3-0086",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0130",
+      "existingId": "EXT-S3-0087",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC16000-0542",
+      "existingId": "EXT-SC14000-0335",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC17000-0439",
+      "existingId": "EXT-S3-0090",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC17000-0682",
+      "existingId": "EXT-S3-0094",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC17000-0685",
+      "existingId": "EXT-S3-0096",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC17000-0858",
+      "existingId": "EXT-S3-0099",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0077",
+      "existingId": "EXT-S3-0250",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0088",
+      "existingId": "EXT-S3-0251",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0103",
+      "existingId": "EXT-S3-0252",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0125",
+      "existingId": "EXT-S3-0253",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0466",
+      "existingId": "EXT-S3-0257",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0477",
+      "existingId": "EXT-S3-0258",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0549",
+      "existingId": "EXT-S3-0259",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0558",
+      "existingId": "EXT-S3-0260",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0567",
+      "existingId": "EXT-S3-0261",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0576",
+      "existingId": "EXT-S3-0262",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC18000-0997",
+      "existingId": "EXT-SC09000-0564",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC19000-0014",
+      "existingId": "EXT-SC01000-0392",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC19000-0508",
+      "existingId": "EXT-SC11000-0298",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC19000-0597",
+      "existingId": "EXT-S3-0275",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC19000-0791",
+      "existingId": "EXT-SC19000-0737",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC20000-0049",
+      "existingId": "EXT-S3-0078",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC20000-0050",
+      "existingId": "EXT-SC01000-0078",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC20000-0678",
+      "existingId": "EXT-SC04000-0712",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC20000-0737",
+      "existingId": "EXT-SC00000-0478",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC20000-0899",
+      "existingId": "EXT-SC01000-0030",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC21000-0023",
+      "existingId": "EXT-SC09000-0068",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC21000-0048",
+      "existingId": "EXT-SC18000-0787",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC21000-0049",
+      "existingId": "EXT-SC18000-0788",
+      "collection": "全宋词"
+    },
+    {
+      "sourceId": "EXT-SC21000-0050",
+      "existingId": "EXT-SC18000-0789",
+      "collection": "全宋词"
+    }
+  ],
+  "excluded": [
+    {
+      "id": "EXT-QJ-0072",
+      "reason": "非文本段落结构"
+    },
+    {
+      "id": "EXT-QJ-0094",
+      "reason": "非文本段落结构"
+    },
+    {
+      "id": "EXT-QJ-0171",
+      "reason": "非文本段落结构"
+    },
+    {
+      "id": "EXT-QJ-0191",
+      "reason": "非文本段落结构"
+    },
+    {
+      "id": "EXT-QJ-0202",
+      "reason": "非文本段落结构"
+    },
+    {
+      "id": "EXT-SC00000-0046",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0229",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0254",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0317",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0360",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0361",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0362",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0371",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0402",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0403",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0887",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC00000-0923",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.0.json"
+    },
+    {
+      "id": "EXT-SC01000-0001",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0007",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0008",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0110",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0430",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0774",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0777",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0780",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0795",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0811",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0894",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0977",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0986",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC01000-0989",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.1000.json"
+    },
+    {
+      "id": "EXT-SC02000-0016",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0034",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0036",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0048",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0056",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0181",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0183",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0200",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0206",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0226",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0244",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0306",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0324",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0402",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0410",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0412",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0442",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0480",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0490",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0495",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0518",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0522",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0534",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0554",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0557",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0567",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0582",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0606",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0784",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0839",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0863",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0902",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0908",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0909",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0933",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC02000-0978",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.2000.json"
+    },
+    {
+      "id": "EXT-SC03000-0058",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0143",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0145",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0156",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0162",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0192",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0193",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0196",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0360",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0364",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0370",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0371",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0372",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0373",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0396",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0412",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0419",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0422",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0440",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0535",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0664",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0667",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0668",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0672",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0683",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0716",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0722",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0836",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0886",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0887",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0890",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0891",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0895",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0896",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0899",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0900",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0904",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0910",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0924",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0928",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0936",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0941",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0953",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0962",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0965",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0974",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0977",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0980",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0982",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC03000-0986",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.3000.json"
+    },
+    {
+      "id": "EXT-SC04000-0006",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0007",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0008",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0018",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0023",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0027",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0029",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0038",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0041",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0045",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0050",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0058",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0065",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0070",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0074",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0075",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0081",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0084",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0093",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0101",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0103",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0151",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0159",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0211",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0267",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0349",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0498",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0499",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0500",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0506",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0562",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0573",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0590",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0593",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0838",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0850",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0878",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0885",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0900",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0927",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC04000-0954",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.4000.json"
+    },
+    {
+      "id": "EXT-SC05000-0087",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0116",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0129",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0141",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0149",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0180",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0253",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0310",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0312",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0342",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0346",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0438",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0454",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0478",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0492",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0501",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0551",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0556",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0561",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0576",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0621",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0847",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC05000-0985",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.5000.json"
+    },
+    {
+      "id": "EXT-SC06000-0041",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0075",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0189",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0214",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0297",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0421",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0475",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0483",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0485",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0500",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0503",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0589",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0590",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0683",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0690",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0811",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0821",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0823",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0838",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0853",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0862",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0901",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0912",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0928",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0934",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0941",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC06000-0942",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.6000.json"
+    },
+    {
+      "id": "EXT-SC07000-0018",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0081",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0087",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0103",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0104",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0111",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0162",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0182",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0192",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0422",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0461",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0540",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0548",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0559",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0577",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0595",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0673",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0675",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0677",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0681",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0690",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0692",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0695",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0697",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0703",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0721",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0722",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0725",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0738",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0739",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0740",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0748",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0754",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0755",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0766",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0799",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0806",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0814",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0845",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC07000-0880",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.7000.json"
+    },
+    {
+      "id": "EXT-SC08000-0020",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0021",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0113",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0120",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0135",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0137",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0152",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0232",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0276",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0329",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0332",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0335",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0368",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0393",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0424",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0428",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0500",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0505",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0511",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0517",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0518",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0519",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0520",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0531",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0556",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0566",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0597",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0779",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0826",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0840",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0851",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0895",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0900",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0904",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0905",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0910",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0915",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0919",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0923",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0927",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0928",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0932",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0933",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0937",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0941",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0945",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0950",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0955",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0960",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0964",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0965",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0966",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0967",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0971",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0972",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0974",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0975",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0976",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0977",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0978",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0979",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0980",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0981",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0982",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0983",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0984",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0985",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0986",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0987",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0988",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0989",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0990",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0991",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0992",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC08000-0993",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.8000.json"
+    },
+    {
+      "id": "EXT-SC09000-0002",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0003",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0011",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0019",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0036",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0063",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0213",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0232",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0235",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0237",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0269",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0281",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0289",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0290",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0294",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0295",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0300",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0315",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0316",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0319",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0329",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0364",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0403",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0418",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0420",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0504",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0508",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0581",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0610",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0616",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0680",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0682",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0690",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0701",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC09000-0724",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.9000.json"
+    },
+    {
+      "id": "EXT-SC10000-0101",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0123",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0148",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0151",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0246",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0265",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0278",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0296",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0299",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0303",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0311",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0349",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0354",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0411",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0438",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0454",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0479",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0480",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0481",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0486",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0500",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0546",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0569",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0590",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0595",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0598",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0604",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0612",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0645",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0646",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0846",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC10000-0883",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.10000.json"
+    },
+    {
+      "id": "EXT-SC11000-0003",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0005",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0017",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0022",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0105",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0117",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0125",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0137",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0153",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0236",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0255",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0259",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0261",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0262",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0267",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0270",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0329",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0338",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0357",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0360",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0361",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0370",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0373",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0378",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0393",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0395",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0399",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0433",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0605",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0606",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0620",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0621",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0624",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0679",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0685",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0686",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0704",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0721",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0731",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0770",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0773",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0837",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0838",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0841",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0954",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC11000-0960",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.11000.json"
+    },
+    {
+      "id": "EXT-SC12000-0023",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0039",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0041",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0044",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0088",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0089",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0091",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0108",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0121",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0138",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0152",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0160",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0164",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0207",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0223",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0284",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0346",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0359",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0380",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0405",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0460",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0480",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0489",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0495",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0543",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0557",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0576",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0589",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0606",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0614",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0619",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0621",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0626",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0773",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0776",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0799",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0824",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0854",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0883",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0972",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC12000-0997",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.12000.json"
+    },
+    {
+      "id": "EXT-SC13000-0009",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0086",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0118",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0129",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0135",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0170",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0180",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0201",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0215",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0230",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0231",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0232",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0237",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0238",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0243",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0248",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0253",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0257",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0296",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0335",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0336",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0337",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0341",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0344",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0345",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0361",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0412",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0442",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0519",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0545",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0562",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0569",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0641",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0664",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0700",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0774",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0789",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0791",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0804",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0819",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0822",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0823",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0830",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0835",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0881",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0957",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0964",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC13000-0970",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.13000.json"
+    },
+    {
+      "id": "EXT-SC14000-0035",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0098",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0153",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0172",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0175",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0178",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0185",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0192",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0195",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0196",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0202",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0205",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0229",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0236",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0264",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0301",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0363",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0367",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0378",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0395",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0418",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0425",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0433",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0435",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0450",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0496",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0540",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0549",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0566",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0631",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0632",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0656",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0692",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0699",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0720",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0768",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0818",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0839",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0840",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0844",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0862",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0865",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0866",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC14000-0882",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.14000.json"
+    },
+    {
+      "id": "EXT-SC15000-0003",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0016",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0038",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0039",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0140",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0150",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0153",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0159",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0160",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0273",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0278",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0298",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0300",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0331",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0341",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0374",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0387",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0403",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0423",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0474",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0494",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0693",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0704",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0725",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0758",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0775",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0778",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0791",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0793",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0807",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0870",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0871",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0877",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0889",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0894",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0898",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0909",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0917",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC15000-0988",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.15000.json"
+    },
+    {
+      "id": "EXT-SC16000-0008",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0026",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0053",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0056",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0106",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0109",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0122",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0145",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0229",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0251",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0254",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0255",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0302",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0334",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0408",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0416",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0418",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0440",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0442",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0454",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0456",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0457",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0459",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0475",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0476",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0478",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0515",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0520",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0531",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0549",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0560",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0564",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0569",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0570",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0572",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0579",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0580",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0584",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0587",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0604",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0615",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0617",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0621",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0627",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0632",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0633",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0638",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0645",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0677",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0678",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0681",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0684",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0687",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0688",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0690",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0693",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0694",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0699",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0702",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0712",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0716",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0717",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0734",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0818",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0864",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC16000-0998",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.16000.json"
+    },
+    {
+      "id": "EXT-SC17000-0034",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0038",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0064",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0077",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0086",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0087",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0092",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0115",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0196",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0197",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0199",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0215",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0302",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0312",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0314",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0321",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0359",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0379",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0383",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0455",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0461",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0495",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0504",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0524",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0542",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0563",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0594",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0601",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0621",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0812",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0813",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0824",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0825",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0826",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0830",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0833",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0873",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0875",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0885",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0887",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0890",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0912",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0918",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0934",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0936",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC17000-0952",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.17000.json"
+    },
+    {
+      "id": "EXT-SC18000-0034",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0036",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0043",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0058",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0096",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0105",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0157",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0159",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0164",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0169",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0170",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0267",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0268",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0279",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0282",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0289",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0295",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0296",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0305",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0308",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0310",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0323",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0326",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0327",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0339",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0346",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0349",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0353",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0359",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0377",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0395",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0400",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0406",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0429",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0444",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0445",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0456",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0467",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0495",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0512",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0517",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0533",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0541",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0542",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0544",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0546",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0659",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0666",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0688",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0705",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0708",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0709",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0710",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0714",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0715",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0716",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0717",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0718",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0719",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0720",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0721",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0722",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0723",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0724",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0725",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0736",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0745",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0746",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0747",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0748",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0751",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0752",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0753",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0843",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0864",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0920",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0973",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC18000-0977",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.18000.json"
+    },
+    {
+      "id": "EXT-SC19000-0005",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0028",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0032",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0033",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0064",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0065",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0067",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0068",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0084",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0089",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0094",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0100",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0123",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0140",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0142",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0286",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0349",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0383",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0422",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0427",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0546",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0572",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0577",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0578",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0579",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0598",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0616",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0624",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0626",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0642",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0647",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0664",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0678",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0799",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0810",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0902",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0908",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC19000-0959",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.19000.json"
+    },
+    {
+      "id": "EXT-SC20000-0041",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0117",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0135",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0176",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0187",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0192",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0197",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0212",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0238",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0256",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0280",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0312",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0315",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0338",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0339",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0385",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0389",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0423",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0475",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0497",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0507",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0537",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0588",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0607",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0614",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0623",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0629",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0635",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0639",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0640",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0642",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0650",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0669",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0696",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0720",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0730",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0734",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0742",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0763",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0764",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0777",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0778",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0781",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0783",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0785",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0789",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0804",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0834",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0840",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0844",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0860",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0878",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0879",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0885",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0886",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0893",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0905",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0908",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0926",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0982",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC20000-0983",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.20000.json"
+    },
+    {
+      "id": "EXT-SC21000-0003",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.21000.json"
+    },
+    {
+      "id": "EXT-SC21000-0041",
+      "reason": "缺字标记或过短文本",
+      "source": "宋词/ci.song.21000.json"
+    }
+  ]
+}
