@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-12",
+  "mediaCommit": "56e906e4a81b7bedd6f005026f25341e44ffc1e8",
+  "remoteCommitMatches": true,
+  "lfsObjects": 42,
+  "lfsUniqueBytes": 166440865,
+  "upload": "42/42 completed",
+  "retry": "首次并发上传出现EOF/broken pipe；单并发续传成功，未重生成、未重编码、未强推",
+  "localFsck": "passed",
+  "downloadSamples": [
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/横屏-v5/S01-image-v002.png",
+      "bytes": 2157439,
+      "comparison": "byte-for-byte equal"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/配音-v2/音色设计-v001/云起时-音色候选-01.mp3",
+      "bytes": 643956,
+      "comparison": "byte-for-byte equal"
+    },
+    {
+      "path": "doc/项目/01-古诗词意境/资产库/001-山水清欢/视频-v1/S01-云起时-01.mp4",
+      "bytes": 5458552,
+      "comparison": "byte-for-byte equal"
+    }
+  ],
+  "downloadBytes": 8259947,
+  "method": "独立临时LFS存储从origin下载，未复用已有本地LFS对象；验证后临时下载目录已清理"
+}
